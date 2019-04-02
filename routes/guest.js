@@ -18,11 +18,3 @@ router.get('/contact/:phone_number',(req,res)=>{ //accepts 1 parameter and sends
 
 module.exports=router;
 
-
-
-
-
-
-
-
-module.exports=router;
